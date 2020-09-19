@@ -1,0 +1,58 @@
+body {
+    font-family: 'Ranchers', cursive;
+    font-size: 25px;
+}
+
+#head {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+    /* margin-top: 10%;
+    margin-left: 13%; */
+}
+
+.g1 {
+    color: rgba(0, 81, 255, 0.87);
+}
+
+.g2 {
+    color: rgba(253, 27, 27, 0.842);
+}
+
+.g3 {
+    color: rgba(255, 208, 0, 0.884);
+}
+
+.g4 {
+    color: rgba(3, 148, 3, 0.836);
+}
+
+#start {
+    margin-top: 5%;
+}
+
+#wiggle {
+    margin-top: 5%;
+    /* margin-left: 16%;
+    margin-right: 38%; */
+}
+
+#image {
+    margin-top: 5%;
+}
+
+#pause {
+    margin-top: 5%;
+}
+
+#stop {
+    margin-top: 5%;
+    height: 25px;
+    width: 25px;
+    background-color: red;
+    margin-left: 47%;
+    border-radius: 13px;
+}
+
+* {
+    transition: all 1.5s;
+}
